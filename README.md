@@ -4,5 +4,5 @@ This repository is implementation of neural network from the scratch in C++. The
 
 The second file (NN_with_Hidden_Layer.cpp) is implementation of a neural network with a single hidden layer which is able to predict a class type based on an input data when the separation between the classes is not possible using a straight line and the relationship between the data is complex and nonlinear.
 
-For more information, please visit my website: 
+For more information, please visit my website: https://jafararashmehr.github.io/Computational-BioMechanics/rst/ANN.html
 ![image](https://github.com/JafarArashMehr/Neural-Network/assets/23459666/45465b7b-2730-45f4-86b8-a4cdb18005a0)
