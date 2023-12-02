@@ -13,7 +13,7 @@ using namespace std;
 vector<vector<double>> input_data ;
 vector<double> target_values ;
 
-int number_of_data = 661;
+int number_of_data = 660;
 int dimensions = 9;
 int hidden_layer_nodes = 3;
 // Defining learning rate
